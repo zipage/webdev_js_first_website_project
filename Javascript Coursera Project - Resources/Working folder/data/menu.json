@@ -1,0 +1,79 @@
+{"menu": [
+	{
+		"id": "F1",
+		"name": "Cheese Filled Ravioli",
+		"type": "Food",
+		"sub_type": "Pasta",
+		"course": "Main",
+		"description": "Delicious cheese filled pasta in tomato and basil sauce",
+		"price": 15.95
+	},
+	{
+		"id": "F2",
+
+		"name": "Fettucine Alfredo",
+		"type": "Food",
+		"sub_type": "Pasta",
+		"course": "Main",
+		"description": "Hand-made fettuccine in a creamy classic Alfredo sauce",
+		"price": 14.95,
+		"related_wine": "D3"
+	},
+	{
+		"id": "F3",
+		"name": "Veal Brasato",
+		"type": "Food",
+		"sub_type": "Meat",
+		"course": "Main",
+		"description": "Tender boneless veal shoulder cuts marinated in red wine and slow-cooked with brasato",
+		"price": 19.95,
+		"related_wine": "D4"
+	},
+	{
+		"id": "F4",
+		"name": "Chicken Parmigiana",
+		"type": "Food",
+		"sub_type": "Meat",
+		"course": "Main",
+		"description": "Layers of thin-sliced lightly pan-fried chicken breast baked with tomato sauce",
+		"price": 17.95,
+		"related_wine": "D1"
+	},
+	{
+		"id": "D1",
+		"name": "Chianti Classico",
+		"type": "Drink",
+		"sub_type": "wine",
+		"category": "Red",
+		"description": "A limpid ruby red wine with floral notes, dry and sapid flavour, from the Chianti",
+		"price": 35
+	},
+	{
+		"id": "D2",
+		"name": "Pinot Noir",
+		"type": "Drink",
+		"sub_type": "Wine",
+		"category": "Red",
+		"description": "A medium body, medium-dry red with earthy flavour from teh french regiion of Pinot",
+		"price": 24
+	},
+	{
+		"id": "D4",
+		"name": "Cabernet",
+		"type": "Drink",
+		"sub_type": "Wine",
+		"category": "Red",
+		"description": "A bold and assertive red wine from the french region of Bordeaux",
+		"price": 24
+	},
+	{
+		"id": "D3-WW1",
+		"name": "Chardonnay",
+		"type": "Drink",
+		"sub_type": "Wine",
+		"category": "White",
+		"description": "A dry, full-bodied white wine with moderate acidity, made with Chardonnay",
+		"price": 26
+		}
+	]
+}
